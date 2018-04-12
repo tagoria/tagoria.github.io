@@ -1,0 +1,12 @@
+projet.imanord.dao
+projet.imanord.helper
+projet.imanord.interfaces
+projet.imanord.managers
+projet.imanord.models
+projet.imanord.web.filters
+projet.imanord.web.servlets
+projet.imanord.web.servlets.Client
+projet.imanord.web.servlets.admin
+projet.imanord.web.servlets.coursier
+projet.imanord.web.servlets.publique
+projet.imanord.web.webservices
